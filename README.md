@@ -28,7 +28,6 @@
 
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" width="50" alt="Next.js">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" width="50" alt="NestJS">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" width="50" alt="Prisma">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="50" alt="PostgreSQL">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="50" alt="MySQL">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Firebase-Dark.svg" width="50" alt="Firebase">
@@ -37,9 +36,6 @@
 
 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="50" alt="TailwindCSS">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" width="50" alt="Sass">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="50" alt="Bootstrap">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" width="50" alt="Redux">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width="50" alt="Figma">
 
 
@@ -48,7 +44,7 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width="50" alt="AWS">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="50" alt="Linux">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" width="50" alt="Bash">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NGINX-Dark.svg" width="50" alt="NGINX">
+
 
 
 
