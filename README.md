@@ -30,8 +30,6 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" width="50" alt="NestJS">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="50" alt="PostgreSQL">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="50" alt="MySQL">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Firebase-Dark.svg" width="50" alt="Firebase">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Dark.svg" width="50" alt="GraphQL">
 
 
 
